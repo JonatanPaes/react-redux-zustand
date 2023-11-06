@@ -20,3 +20,4 @@
 - [React Redux](https://react-redux.js.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide](https://lucide.dev/guide/packages/lucide-react/)
+- [React Player](https://github.com/CookPete/react-player)
