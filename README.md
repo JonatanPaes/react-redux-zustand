@@ -18,3 +18,5 @@
 - [React](https://react.dev/)
 - [Redux](https://redux.js.org/)
 - [React Redux](https://react-redux.js.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Lucide](https://lucide.dev/guide/packages/lucide-react/)
