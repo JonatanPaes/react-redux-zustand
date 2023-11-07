@@ -21,3 +21,4 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide](https://lucide.dev/guide/packages/lucide-react/)
 - [React Player](https://github.com/CookPete/react-player)
+- [Radix](https://www.radix-ui.com/)
