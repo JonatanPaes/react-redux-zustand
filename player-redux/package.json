@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-zustand",
+  "name": "player-redux",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,7 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "json-server server.json -w -d 500000000000000",
+    "server": "json-server server.json -w -d 5000",
     "test": "vitest run",
     "test:watch": "vitest"
   },
