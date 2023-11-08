@@ -23,3 +23,5 @@
 - [React Player](https://github.com/CookPete/react-player)
 - [Radix](https://www.radix-ui.com/)
 - [Vitest](https://vitest.dev/)
+- [JSON Server](https://github.com/typicode/json-server)
+- [Axios](https://axios-http.com/)
