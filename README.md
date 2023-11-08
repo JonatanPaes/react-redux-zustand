@@ -18,6 +18,7 @@
 - [React](https://react.dev/)
 - [Redux](https://redux.js.org/)
 - [React Redux](https://react-redux.js.org/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide](https://lucide.dev/guide/packages/lucide-react/)
 - [React Player](https://github.com/CookPete/react-player)
