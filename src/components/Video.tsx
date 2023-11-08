@@ -3,10 +3,10 @@ import { useAppSelector } from "../store";
 
 export function Video() {
   const lesson = useAppSelector((state) => {
-    const { currentmoduleIndex, currentLessonIndex } = state.player;
+    const { currentModuleIndex, currentLessonIndex } = state.player;
 
     const currentLesson =
-      state.player.course.modules[currentmoduleIndex].lessons[
+      state.player.course.modules[currentModuleIndex].lessons[
         currentLessonIndex
       ];
 

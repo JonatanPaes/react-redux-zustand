@@ -62,12 +62,12 @@ const playerSlice = createSlice({
         },
       ],
     },
-    currentmoduleIndex: 0,
+    currentModuleIndex: 0,
     currentLessonIndex: 0,
   },
   reducers: {
     play: (state, action) => {
-      state.currentmoduleIndex = action.payload[0];
+      state.currentModuleIndex = action.payload[0];
       state.currentLessonIndex = action.payload[1];
     },
   },
