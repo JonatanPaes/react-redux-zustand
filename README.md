@@ -32,12 +32,6 @@ Para executar o projeto utilizando Redux
 cd player-redux
 ```
 
-Para executar o projeto utilizando Redux
-
-```bash
-cd player-redux
-```
-
 Para executar o projeto utilizando Zustand
 
 ```bash
