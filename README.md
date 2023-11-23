@@ -61,7 +61,7 @@ npm run dev
 ```
 
 <p align="center">
-  <img alt="Demonstration web" src="./preview/web-player.gif" width="70%"height="70%" 
+  <img alt="Demonstration web" src="./preview/web-player.gif" width="100%"height="100%" 
 />
 </p>
 
